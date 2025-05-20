@@ -1,0 +1,1 @@
+# sonarqube-slack-notify
